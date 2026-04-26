@@ -1,7 +1,9 @@
 
 ## PollView
 
-<img src="https://github.com/TybeeS/TybeeS_ClaudePortfolio/blob/main/pollview.jpg?raw=true" width="650">
+[Website Link](https://dig4503-midterm.onrender.com/)
+
+<img src="https://github.com/TybeeS/TybeeS_ClaudePortfolio/blob/main/pollview.jpg?raw=true" width="600">
 
 PollView is a website that allows users can create polls on a variety of topics and submit these polls for others to vote on them. These polls can range from multiple choice to open-ended.
 
@@ -25,7 +27,9 @@ This project was the first time I had ever used AI to develop a type of "web ser
 
 ## Dazzling Donuts
 
-<img src="https://github.com/TybeeS/TybeeS_ClaudePortfolio/blob/main/dazzlingdonuts.jpg?raw=true" width="650">
+[Website Link](https://earnest-entremet-78f7e8.netlify.app/)
+
+<img src="https://github.com/TybeeS/TybeeS_ClaudePortfolio/blob/main/dazzlingdonuts.jpg?raw=true" width="600">
 
 Dazzling Donuts is a simple website mockup for a fictional donut shop. The site showcases the shop's menu, story, and     
 contact information.
